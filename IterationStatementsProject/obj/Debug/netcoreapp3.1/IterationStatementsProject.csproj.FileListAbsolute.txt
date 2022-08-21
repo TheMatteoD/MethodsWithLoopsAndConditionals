@@ -1,0 +1,14 @@
+D:\Repos\IterationStatements\IterationStatementsProject\bin\Debug\netcoreapp3.1\IterationStatementsProject.exe
+D:\Repos\IterationStatements\IterationStatementsProject\bin\Debug\netcoreapp3.1\IterationStatementsProject.deps.json
+D:\Repos\IterationStatements\IterationStatementsProject\bin\Debug\netcoreapp3.1\IterationStatementsProject.runtimeconfig.json
+D:\Repos\IterationStatements\IterationStatementsProject\bin\Debug\netcoreapp3.1\IterationStatementsProject.runtimeconfig.dev.json
+D:\Repos\IterationStatements\IterationStatementsProject\bin\Debug\netcoreapp3.1\IterationStatementsProject.dll
+D:\Repos\IterationStatements\IterationStatementsProject\bin\Debug\netcoreapp3.1\IterationStatementsProject.pdb
+D:\Repos\IterationStatements\IterationStatementsProject\obj\Debug\netcoreapp3.1\IterationStatementsProject.csproj.AssemblyReference.cache
+D:\Repos\IterationStatements\IterationStatementsProject\obj\Debug\netcoreapp3.1\IterationStatementsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\IterationStatements\IterationStatementsProject\obj\Debug\netcoreapp3.1\IterationStatementsProject.AssemblyInfoInputs.cache
+D:\Repos\IterationStatements\IterationStatementsProject\obj\Debug\netcoreapp3.1\IterationStatementsProject.AssemblyInfo.cs
+D:\Repos\IterationStatements\IterationStatementsProject\obj\Debug\netcoreapp3.1\IterationStatementsProject.csproj.CoreCompileInputs.cache
+D:\Repos\IterationStatements\IterationStatementsProject\obj\Debug\netcoreapp3.1\IterationStatementsProject.dll
+D:\Repos\IterationStatements\IterationStatementsProject\obj\Debug\netcoreapp3.1\IterationStatementsProject.pdb
+D:\Repos\IterationStatements\IterationStatementsProject\obj\Debug\netcoreapp3.1\IterationStatementsProject.genruntimeconfig.cache
